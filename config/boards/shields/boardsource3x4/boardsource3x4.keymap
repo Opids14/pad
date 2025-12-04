@@ -14,6 +14,9 @@
 
         default_layer {
             display-name = "Default";
+            // |  A  |  B |  C  |  D  |  E   |  F  |                        
+            // |  G  |  H |  I  |  J  |  K   |  L  |                        
+            // |  TAP  |  N  |  O  |  P   |  Q   |  R  |
 
             bindings = <
                 &kp A &kp B &kp C &kp D &kp E &kp F
